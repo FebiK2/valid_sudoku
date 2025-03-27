@@ -1,3 +1,4 @@
+// Por: Lenin Enrique García Caraballo y David Orlando Riaño Morales
 #include <iostream>
 #include <vector>    // Para crear vectores
 #include <algorithm> // Para usar find
